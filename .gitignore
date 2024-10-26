@@ -1,0 +1,31 @@
+# Logs
+logger/
+*.log
+
+# macOS system files
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+jsoncopier.ipynb
+
+# Virtual environment
+venv/
+
+# Ignore additional metadata or temporary files
+*.tmp
+*.bak
+
+# Exclude large data files
+sold_properties_results/
+sold_properties_links/2024-09-16
+notebooks/logger/
+notebooks/sold_texas.ipynb
+batch_jobs/
+scraped_errors/
+webscraping/
